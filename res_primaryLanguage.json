@@ -1,0 +1,174 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm Vinothkumar Chandrasekaran, a senior software engineer with EPAM Anywhere. With 15 years of experience in web application design and development, I excel in building scalable applications using frameworks like Angular, React, Express, and FastAPI. My focus is on creating intuitive user interfaces and efficient backend architectures. Thank you.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "startDate": "2018",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "EPAM Anywhere",
+      "title": "Senior Software Engineer",
+      "years": "Jan 2022 - present",
+      "mainTech": ["Angular 13, AWS, Python"],
+      "technologies": [
+        "Angular",
+        "Microservice",
+        "REST API",
+        "RxJS",
+        "NgXS",
+        "Python",
+        "JavaScript",
+        "AWS",
+        "Kubernetes",
+        "Angular Material",
+        "React",
+        "GitHub"
+      ]
+    },
+    {
+      "company": "Cognizant India (P) Ltd",
+      "title": "Senior Associate",
+      "years": "Feb 2018 - Sep 2021",
+      "mainTech": ["Angular 7/8"],
+      "technologies": [
+        "AngularJS",
+        "Azure",
+        "CosmoDB",
+        "GIT",
+        "Jenkins",
+        "JIRA",
+        "TypeScript",
+        "Jest",
+        "RxJS",
+        "Redux",
+        "WebdriverIO",
+        "Microservices",
+        "Yarn"
+      ]
+    },
+    {
+      "company": "Wipro technologies",
+      "title": "Tech Lead",
+      "years": "Mar 2013 to Jan 2018",
+      "mainTech": ["Angular, React, PHP, Node.JS"],
+      "technologies": [
+        "Angular2",
+        "React",
+        "Jasmine",
+        "Karma",
+        "Highcharts",
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "REST",
+        "NodeJS",
+        "Express",
+        "NPM"
+      ]
+    },
+    {
+      "company": "Logica (P) Ltd",
+      "title": "IT Consultan",
+      "years": "Nov 2010 to Apr 2013",
+      "mainTech": ["Javascript, jQuery, PHP"],
+      "technologies": [
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "JQuery",
+        "Openlayers",
+        "HTML5",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Metamorphosis LLC",
+      "title": "Software developer",
+      "years": "Nov 2007 to Apr 2008",
+      "mainTech": ["Javascript, PHP"],
+      "technologies": [
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "Smarty",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ]
+}
