@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vino-mib/static/css/main.89dfb679.chunk.css",
+    "main.js": "/vino-mib/static/js/main.151851b0.chunk.js",
+    "main.js.map": "/vino-mib/static/js/main.151851b0.chunk.js.map",
+    "runtime-main.js": "/vino-mib/static/js/runtime-main.149f632b.js",
+    "runtime-main.js.map": "/vino-mib/static/js/runtime-main.149f632b.js.map",
+    "static/css/2.d64471e2.chunk.css": "/vino-mib/static/css/2.d64471e2.chunk.css",
+    "static/js/2.848cfc82.chunk.js": "/vino-mib/static/js/2.848cfc82.chunk.js",
+    "static/js/2.848cfc82.chunk.js.map": "/vino-mib/static/js/2.848cfc82.chunk.js.map",
+    "index.html": "/vino-mib/index.html",
+    "precache-manifest.ff9a324175b3d48fd33de99c644ce5e0.js": "/vino-mib/precache-manifest.ff9a324175b3d48fd33de99c644ce5e0.js",
+    "service-worker.js": "/vino-mib/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/vino-mib/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.89dfb679.chunk.css.map": "/vino-mib/static/css/main.89dfb679.chunk.css.map",
+    "static/js/2.848cfc82.chunk.js.LICENSE.txt": "/vino-mib/static/js/2.848cfc82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.149f632b.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.848cfc82.chunk.js",
+    "static/css/main.89dfb679.chunk.css",
+    "static/js/main.151851b0.chunk.js"
+  ]
+}
