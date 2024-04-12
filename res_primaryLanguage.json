@@ -56,10 +56,6 @@
           "name": "TypeScript"
         },
         {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
         }
@@ -73,19 +69,26 @@
         "images/portfolio/apple/p1.jpg",
         "images/portfolio/apple/p2.jpg"
       ],
-      "url": "https://github.com",
       "technologies": [
         {
           "class": "devicon-angularjs-plain",
           "name": "Angular"
         },
         {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-original",
+          "name": "NodeJS"
+        },
+        {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-php-plain",
+          "name": "PHP"
         }
       ]
     }
