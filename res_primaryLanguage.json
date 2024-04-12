@@ -13,7 +13,7 @@
     {
       "title": "ML Configurator",
       "startDate": "2023",
-      "description": "This app allows Data scientists to experiment with various machine learning models, Tune hyperparameters to optimize model performance, and visualize key performance indicators (KPIs) for each experiment before finding the best fit model for specific business use case. <br/><br/> I am responsible for designing architectural changes, developing the angular frontend and BFF APIs, writing unit and integration tests, containerizing the application with Docker, and deploying it to Kubernetes. The challenge I tackled was migrating this app to Kubernetes. <br/><br/> I successfully moved it from CloudFront and Lambda, deployed it to Kubernetes as a Knative service. This resulted in faster transaction times and reduced costs.",
+      "description": "This app allows Data scientists to experiment with various machine learning models, Tune hyperparameters to optimize model performance, and visualize key performance indicators (KPIs) for each experiment before finding the best fit model for specific business use case.  I am responsible for designing architectural changes, developing the angular frontend and BFF APIs, writing unit and integration tests, containerizing the application with Docker, and deploying it to Kubernetes. The challenge I tackled was migrating this app to Kubernetes.  I successfully moved it from CloudFront and Lambda, deployed it to Kubernetes as a Knative service. This resulted in faster transaction times and reduced costs.",
       "images": [
         "images/portfolio/syncron/p1.jpg",
         "images/portfolio/syncron/p2.jpg"
@@ -41,7 +41,7 @@
     {
       "title": "Rabobank online",
       "startDate": "2018",
-      "description": "Developed a comprehensive set of frontend features catering to both retail and business customers.<br/><br/>I am responsible for designing architectural changes, developing the angular frontend and Micro UIs, writing unit and integration tests and deploying it to Kubernetes. <br/><br/>My focus is frontend development, where I've delivered several key features like Bunq integration, MoneyBox integration, business account management, and transaction report downloads.",
+      "description": "Developed a comprehensive set of frontend features catering to both retail and business customers.I am responsible for designing architectural changes, developing the angular frontend and Micro UIs, writing unit and integration tests and deploying it to Kubernetes. My focus is frontend development, where I've delivered several key features like Bunq integration, MoneyBox integration, business account management, and transaction report downloads.",
       "images": [
         "images/portfolio/rabobank/p1.jpg",
         "images/portfolio/rabobank/p2.jpg"
