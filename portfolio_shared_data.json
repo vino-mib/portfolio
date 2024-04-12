@@ -16,7 +16,12 @@
         {
           "name": "Gmail",
           "url": "mailto:vino.mib@gmail.com",
-          "class": "fab fa-envelope"
+          "class": "fa fa-envelope"
+        },
+        {
+          "name": "Whatsapp",
+          "url": "https://wa.me/8056000041",
+          "class": "fa fa-whatsapp"
         }
       ],
       "image": "myProfile.jpg"
