@@ -15,8 +15,8 @@
       "startDate": "2023",
       "description": "This app allows Data scientists to experiment with various machine learning models, Tune hyperparameters to optimize model performance, and visualize key performance indicators (KPIs) for each experiment before finding the best fit model for specific business use case. <br/><br/> I am responsible for designing architectural changes, developing the angular frontend and BFF APIs, writing unit and integration tests, containerizing the application with Docker, and deploying it to Kubernetes. The challenge I tackled was migrating this app to Kubernetes. <br/><br/> I successfully moved it from CloudFront and Lambda, deployed it to Kubernetes as a Knative service. This resulted in faster transaction times and reduced costs.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/syncron/p1.jpg",
+        "images/portfolio/syncron/p2.jpg"
       ],
       "url": "",
       "technologies": [
