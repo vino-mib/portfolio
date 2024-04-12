@@ -39,12 +39,12 @@
       ]
     },
     {
-      "title": "Photography",
+      "title": "Rabobank online",
       "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "Developed a comprehensive set of frontend features catering to both retail and business customers.<br/><br/>I am responsible for designing architectural changes, developing the angular frontend and Micro UIs, writing unit and integration tests and deploying it to Kubernetes. <br/><br/>My focus is frontend development, where I've delivered several key features like Bunq integration, MoneyBox integration, business account management, and transaction report downloads.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/rabobank/p1.jpg",
+        "images/portfolio/rabobank/p2.jpg"
       ],
       "url": "https://github.com",
       "technologies": [

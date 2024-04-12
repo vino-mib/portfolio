@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "rabobank",
         "startDate": "2018",
         "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/rabobank/p1.jpg",
+          "images/portfolio/rabobank/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
