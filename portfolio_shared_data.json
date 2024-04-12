@@ -12,6 +12,11 @@
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/gritbee",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Gmail",
+          "url": "mailto:vino.mib@gmail.com",
+          "class": "fab fa-envelope"
         }
       ],
       "image": "myProfile.jpg"
