@@ -19,9 +19,9 @@
           "class": "fa fa-envelope"
         },
         {
-          "name": "Whatsapp",
-          "url": "https://wa.me/8056000041",
-          "class": "fa fa-whatsapp"
+          "name": "Mobile",
+          "url": "tel:+918056000041",
+          "class": "fa fa-phone"
         }
       ],
       "image": "myProfile.jpg"
