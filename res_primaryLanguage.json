@@ -46,8 +46,15 @@
         "images/portfolio/rabobank/p1.jpg",
         "images/portfolio/rabobank/p2.jpg"
       ],
-      "url": "https://github.com",
       "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
         {
           "class": "devicon-react-original",
           "name": "React"
@@ -59,12 +66,12 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
+      "title": "CheckIn",
       "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "description": "The CheckIn service is an iPad application deployed across Apple campuses. It helps optimize conference room availability by prompting users to confirm their bookings upon arrival. If a reserved room remains unchecked within the first seven minutes of a meeting, it's automatically released for others to use. This system also allows for spontaneous 'takeovers' of unoccupied booked rooms, maximizing space utilization. I lead a team of developers, ensuring the delivery of high-quality code through responsive design, unit testing, and performance tuning.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/apple/p1.jpg",
+        "images/portfolio/apple/p2.jpg"
       ],
       "url": "https://github.com",
       "technologies": [
