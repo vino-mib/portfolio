@@ -102,7 +102,7 @@
       "company": "EPAM Anywhere",
       "title": "Tech Lead",
       "years": "Jan 2022 - present",
-      "mainTech": ["Angular 13, AWS, Python"],
+      "mainTech": ["Angular 17, AWS, Python"],
       "technologies": [
         "Angular",
         "Microservice",
@@ -110,12 +110,14 @@
         "RxJS",
         "NgXS",
         "Python",
-        "JavaScript",
         "AWS",
         "Kubernetes",
-        "Angular Material",
         "React",
-        "GitHub"
+        "GitHub Actions",
+        "Docker",
+        "LLM",
+        "Claude",
+        "Chatbot"
       ]
     },
     {
