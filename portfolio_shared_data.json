@@ -1,88 +1,93 @@
 {
-    "basic_info": {
-      "name": "Vinothkumar Chandrasekaran",
-      "titles": ["Front-end Developer", "Senior Software Engineer", "Dev Team lead", "Mobile App Developer"],
-      "social": [
-        {
-          "name": "Github",
-          "url": "https://github.com/vino-mib",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "LinkedIn",
-          "url": "https://www.linkedin.com/in/gritbee",
-          "class": "fab fa-linkedin"
-        },
-        {
-          "name": "Gmail",
-          "url": "mailto:vino.mib@gmail.com",
-          "class": "fa fa-envelope"
-        },
-        {
-          "name": "Phone",
-          "url": "tel:+918056000041",
-          "class": "fa fa-phone"
-        }
-      ],
-      "image": "myProfile.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "65"
-        },
-        {
-          "name": "Node",
-          "class": "devicon-nodejs-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        },
-        {
-          "name": "AWS",
-          "class": "devicon-amazonwebservices-plain",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Vinothkumar Chandrasekaran",
+    "titles": [
+      "Front-end Developer",
+      "Senior Software Engineer",
+      "Dev Team lead",
+      "Mobile App Developer"
+    ],
+    "social": [
+      {
+        "name": "Github",
+        "url": "https://github.com/vino-mib",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/gritbee",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "Gmail",
+        "url": "mailto:vino.mib@gmail.com",
+        "class": "fa fa-envelope"
+      },
+      {
+        "name": "Phone",
+        "url": "tel:+918056000041",
+        "class": "fa fa-phone"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "65"
+      },
+      {
+        "name": "Node",
+        "class": "devicon-nodejs-plain",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "60"
+      }
+    ]
   }
+}
