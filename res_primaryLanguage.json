@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "👋 I'm Vinothkumar Chandrasekaran, a tech lead at EPAM Anywhere. With 15 years of experience in web application design and development, I excel in building scalable applications using frameworks like Angular, React, Express, and FastAPI. My focus is on creating intuitive user interfaces and efficient backend architectures. Thank you.",
+    "description": "👋 I'm Vinothkumar Chandrasekaran, a Lead Software Engineer at EPAM Anywhere. With 15 years of experience in web application design and development, I excel in building scalable applications using frameworks like Angular, React, Express, and FastAPI. My focus is on creating intuitive user interfaces and efficient backend architectures. Thank you.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -100,7 +100,7 @@
   "experience": [
     {
       "company": "EPAM Anywhere",
-      "title": "Tech Lead",
+      "title": "Lead Software Engineer",
       "years": "Jan 2022 - present",
       "mainTech": ["Angular 17, AWS, Python"],
       "technologies": [
