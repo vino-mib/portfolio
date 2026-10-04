@@ -1,4 +1,4 @@
-:HL["/portfolio/_next/static/chunks/2-nfb0pbt_2un.css","style"]
+:HL["/portfolio/_next/static/chunks/0xdfm41fchwns.css","style"]
 :HC["/",""]
 :HL["/portfolio/_next/static/media/vinoth.21dd0fg-ef_7m.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"ixQg39hEcjsjwjmfdkglc"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Y91QsHPsnR3T_2PgJYpmd"}
